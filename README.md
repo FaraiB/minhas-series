@@ -1,0 +1,1 @@
+The project minhas-series was developed as a part of Devpleno's Fullstack Master course, showcasing CRUD using MongoDB. 
